@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Jena/lib/collection-0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Jena/lib/commons-cli-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Jena/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Jena/lib/commons-csv-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Jena/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Jena/lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Jena/lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Jena/lib/httpclient-cache-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Jena/lib/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Jena/lib/jackson-annotations-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Jena/lib/jackson-core-2.8.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Jena/lib/jackson-databind-2.8.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Jena/lib/jcl-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Jena/lib/jena-arq-3.4.0.jar" sourcepath="C:/Users/User/.m2/repository/org/apache/jena/jena-arq/3.4.0/jena-arq-3.4.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Jena/lib/jena-base-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Jena/lib/jena-cmds-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Jena/lib/jena-core-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Jena/lib/jena-iri-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Jena/lib/jena-rdfconnection-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Jena/lib/jena-shaded-guava-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Jena/lib/jena-tdb-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Jena/lib/jsonld-java-0.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Jena/lib/libthrift-0.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Jena/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Jena/lib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Jena/lib/slf4j-log4j12-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Jena/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Jena/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="G:/Eclipse/DBpedia/lib/jaws-bin-1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
